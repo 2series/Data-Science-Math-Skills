@@ -22,4 +22,4 @@ Data science courses contain math—no avoiding that! This course is designed to
 - Exponents, logarithms, and the natural log function.
 - Probability theory, including Bayes’ theorem.
 
-<img src="http://i.imgur.com/DWaEeRN.png" alt="Smiley face" height="992" width="1112">
+<img src="./image_gallery/assessment.png" height="602" width="1100"/>
